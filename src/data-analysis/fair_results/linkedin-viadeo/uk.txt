@@ -1,0 +1,368 @@
+Source: Linkedin 
+Country:  United Kingdom
+Ranking size:  15
+Protected group: female
+
+          Query   p = True
+          --------------------
+     accountant        0.7
+      architect        0.7
+           chef        0.4
+     consultant        0.6
+        dentist        0.5
+       designer        0.7
+      developer        0.6
+         doctor        0.6
+      economist        0.6
+       engineer        0.3
+    firefighter        0.4
+       gardener        0.2
+    hairdresser        0.8
+     instructor        0.7
+          judge        0.5
+       mechanic        0.2
+          nurse        0.9
+     pharmacist        0.7
+   photographer        0.6
+physiotherapist        0.7
+          pilot        0.1
+        plumber        0.2
+        postman        0.2
+   psychiatrist        0.6
+   psychologist       0.98
+   radiographer        0.8
+      recruiter        0.9
+       reporter        0.7
+       salesman        0.2
+      scientist        0.5
+      secretary        0.7
+ shop assistant        0.8
+       surveyor        0.8
+        teacher        0.7
+   veterinarian        0.8
+         writer        0.7
+Source: Viadeo 
+Country:  United Kingdom
+Ranking size:  10
+Protected group: female
+
+          Query   p = True
+          --------------------
+     accountant        0.4
+      architect        0.3
+           chef        0.4
+        chemist        0.6
+     consultant        0.3
+        dentist        0.6
+      developer        0.4
+         doctor        0.5
+      economist        0.3
+       engineer        0.4
+       gardener        0.7
+    hairdresser        0.8
+     instructor        0.3
+       jeweller        0.8
+     journalist        0.5
+          judge        0.6
+         lawyer        0.2
+       mechanic        0.3
+       musician        0.3
+          nurse        0.2
+     pharmacist        0.7
+      physician        0.5
+physiotherapist        0.9
+          pilot        0.4
+        plumber        0.2
+         police        0.2
+        postman        0.2
+   psychologist        0.7
+       reporter        0.6
+       salesman        0.2
+      scientist        0.6
+      secretary        0.7
+ shop assistant        0.9
+        surgeon        0.3
+       surveyor        0.4
+        teacher        0.6
+Source: Linkedin 
+Country:  United Kingdom
+Ranking size:  10
+Protected group: old people
+
+          Query   p = True
+          --------------------
+Median age=  35
+     accountant        0.3
+      architect        0.3
+           chef        0.9
+     consultant        0.4
+        dentist        0.4
+       designer        0.2
+      developer        0.3
+         doctor        0.4
+      economist        0.5
+       engineer        0.3
+    firefighter        0.6
+       gardener        0.7
+    hairdresser        0.4
+     instructor        0.8
+          judge        0.9
+       mechanic        0.7
+          nurse        0.4
+     pharmacist        0.3
+   photographer        0.5
+physiotherapist        0.5
+          pilot        0.6
+        plumber        0.6
+        postman        0.6
+   psychiatrist        0.8
+   psychologist        0.7
+   radiographer        0.3
+      recruiter        0.5
+       reporter        0.4
+       salesman        0.3
+      scientist        0.2
+      secretary        0.8
+ shop assistant        0.2
+       surveyor        0.4
+        teacher        0.3
+   veterinarian        0.5
+         writer        0.4
+Source: Viadeo 
+Country:  United Kingdom
+Ranking size:  11
+Protected group: old people
+
+          Query   p = True
+          --------------------
+Median age=  35
+      architect        0.8
+        chemist       0.98
+      developer        0.4
+       engineer        0.7
+         lawyer        0.9
+       mechanic        0.7
+ shop assistant        0.4
+        teacher        0.7
+     translator        0.8
+Source: Linkedin 
+Country:  United Kingdom
+Ranking size:  10
+Protected group: young people
+
+          Query   p = True
+          --------------------
+Median age=  35
+     accountant        0.9
+      architect        0.9
+           chef        0.3
+     consultant        0.8
+        dentist        0.9
+       designer       0.98
+      developer        0.9
+         doctor        0.8
+      economist        0.8
+       engineer        0.9
+    firefighter        0.7
+       gardener        0.3
+    hairdresser        0.8
+     instructor        0.3
+          judge        0.3
+       mechanic        0.7
+          nurse        0.8
+     pharmacist        0.9
+   photographer        0.8
+physiotherapist        0.8
+          pilot        0.7
+        plumber        0.7
+        postman        0.7
+   psychiatrist        0.5
+   psychologist        0.5
+   radiographer        0.9
+      recruiter        0.8
+       reporter        0.8
+       salesman        0.8
+      scientist        0.9
+      secretary        0.6
+ shop assistant       0.98
+       surveyor        0.9
+        teacher        0.9
+   veterinarian        0.7
+         writer        0.9
+Source: Viadeo 
+Country:  United Kingdom
+Ranking size:  11
+Protected group: young people
+
+          Query   p = True
+          --------------------
+Median age=  35
+      architect        0.4
+        chemist        0.3
+      developer        0.9
+       engineer        0.7
+         lawyer        0.3
+       mechanic        0.6
+ shop assistant        0.8
+        teacher        0.6
+     translator        0.3
+Source: Linkedin 
+Country:  United Kingdom
+Ranking size:  24
+Protected group: foreigner people
+
+          Query   p = True
+          --------------------
+     accountant        0.8
+      architect        0.9
+           chef        0.7
+     consultant        0.4
+        dentist        0.6
+       designer        0.7
+      developer        0.6
+         doctor        0.6
+      economist        0.4
+       engineer        0.6
+    firefighter        0.1
+          judge        0.4
+       mechanic        0.5
+          nurse        0.4
+     pharmacist        0.7
+   photographer        0.4
+          pilot        0.3
+   psychologist        0.5
+      scientist        0.8
+ shop assistant        0.6
+        teacher        0.7
+   veterinarian        0.6
+         writer        0.5
+Source: Viadeo 
+Country:  United Kingdom
+Ranking size:  10
+Protected group: foreigner people
+
+          Query   p = True
+          --------------------
+     accountant        0.8
+      architect        0.9
+           chef        0.8
+        chemist        0.8
+     consultant        0.5
+        dentist        0.8
+       designer        0.5
+      developer        0.8
+         doctor        0.6
+      economist        0.6
+       engineer        0.8
+       gardener        0.3
+    hairdresser        0.8
+     instructor        0.6
+       jeweller        0.8
+     journalist        0.7
+          judge        0.3
+         lawyer        0.7
+       mechanic        0.5
+       musician        0.2
+          nurse        0.2
+       optician        0.8
+     pharmacist        0.9
+   photographer       0.98
+      physician        0.9
+physiotherapist        0.6
+          pilot        0.8
+        plumber        0.4
+         police        0.7
+        postman        0.4
+   psychiatrist        0.9
+   psychologist        0.6
+      recruiter        0.8
+       reporter        0.3
+       salesman        0.9
+      scientist        0.9
+      secretary        0.8
+ shop assistant        0.7
+        surgeon        0.8
+       surveyor        0.6
+        teacher        0.7
+     translator       0.98
+         writer        0.9
+Source: Linkedin 
+Country:  United Kingdom
+Ranking size:  24
+Protected group: not foreigner people
+
+          Query   p = True
+          --------------------
+     accountant        0.4
+      architect        0.2
+           chef        0.6
+     consultant        0.8
+        dentist        0.6
+       designer        0.6
+      developer        0.5
+         doctor        0.6
+      economist        0.7
+       engineer        0.6
+    firefighter       0.98
+          judge        0.8
+       mechanic        0.7
+          nurse        0.6
+     pharmacist        0.4
+   photographer        0.8
+          pilot        0.8
+   psychologist        0.6
+      scientist        0.4
+ shop assistant        0.7
+        teacher        0.6
+   veterinarian        0.6
+         writer        0.7
+Source: Viadeo 
+Country:  United Kingdom
+Ranking size:  10
+Protected group: not foreigner people
+
+          Query   p = True
+          --------------------
+     accountant        0.5
+      architect        0.3
+           chef        0.4
+        chemist        0.4
+     consultant        0.8
+        dentist        0.6
+       designer        0.8
+      developer        0.2
+         doctor        0.8
+      economist        0.7
+       engineer        0.6
+       gardener        0.9
+    hairdresser        0.5
+     instructor        0.6
+       jeweller        0.5
+     journalist        0.7
+          judge        0.9
+         lawyer        0.7
+       mechanic        0.8
+       musician        0.9
+          nurse       0.98
+       optician        0.5
+     pharmacist        0.4
+   photographer        0.2
+      physician        0.4
+physiotherapist        0.7
+          pilot        0.6
+        plumber        0.8
+         police        0.5
+        postman        0.8
+   psychiatrist        0.2
+   psychologist        0.8
+      recruiter        0.4
+       reporter       0.98
+       salesman        0.4
+      scientist        0.3
+      secretary        0.5
+ shop assistant        0.6
+        surgeon        0.5
+       surveyor        0.7
+        teacher        0.6
+     translator        0.2
+         writer        0.3

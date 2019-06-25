@@ -1,0 +1,128 @@
+{
+  "template_job_candidates": {
+    "order": 0,
+    "index_patterns": [
+      "job_candidates_profiles"
+    ],
+    "settings": {
+      "index": {
+        "number_of_shards": "1"
+      }
+    },
+    "mappings": {
+      "doc": {
+        "_source": {
+          "enabled": true
+        },
+        "properties": {
+          "timestamp": {
+            "type": "date"
+          },
+          "source": {
+            "type": "keyword"
+          },
+          "ranking": {
+            "type": "integer"
+          },
+          "query": {
+            "type": "keyword"
+          },
+          "country": {
+            "type": "keyword"
+          },
+          "has_photo": {
+            "type": "boolean"
+          },
+          "is_premium": {
+            "type": "boolean"
+          },
+          "experience": {
+            "type": "nested",
+            "properties": {
+              "job_position": {
+                "type": "keyword"
+              },
+              "company": {
+                "type": "keyword"
+              },
+              "date_init": {
+                "type": "keyword"
+              },
+              "date_end": {
+                "type": "keyword"
+              },
+              "location": {
+                "type": "keyword"
+              }
+            }
+          },
+          "experience_years": {
+            "type": "float"
+          },
+          "experience_level": {
+            "type": "keyword"
+          },
+          "ethnicity": {
+            "type": "keyword"
+          },
+          "is_foreigner": {
+            "type": "boolean"
+          },
+          "education": {
+            "type": "nested",
+            "properties": {
+              "school": {
+                "type": "keyword"
+              },
+              "name": {
+                "type": "keyword"
+              },
+              "year_init": {
+                "type": "integer"
+              },
+              "year_end": {
+                "type": "integer"
+              }
+            }
+          },
+          "accomplishments": {
+            "type": "nested",
+            "properties": {
+              "certificates": {
+                "type": "integer"
+              },
+              "languages": {
+                "type": "keyword"
+              },
+              "courses": {
+                "type": "integer"
+              },
+              "publications": {
+                "type": "integer"
+              }
+            }
+          },
+          "age": {
+            "type": "integer"
+          },
+          "name": {
+            "type": "keyword"
+          },
+          "surnames": {
+            "type": "text"
+          },
+          "gender": {
+            "type": "keyword"
+          },
+          "connections": {
+            "type": "integer"
+          },
+          "url": {
+            "type": "keyword"
+          }
+        }
+      }
+    },
+    "aliases": {}
+  }
+}

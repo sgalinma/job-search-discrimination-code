@@ -1,0 +1,85 @@
+Source: Top doctors 
+Country:  Spain
+Ranking size:  20
+Protected sex: female
+
+          Query   p = True
+          --------------------
+   cirugia ora.        0.1
+   dermatologia        0.6
+   ginecologia.        0.4
+   neurocirugia        0.2
+   oftalmologia        0.3
+   otorrinolar.        0.2
+      pediatria        0.5
+     psicologia        0.8
+    psiquiatria        0.5
+       urologia        0.2
+Source: Top doctors 
+Country:  Spain
+Ranking size:  10
+Protected sex: old people
+
+          Query   p = True
+          --------------------
+Median age=  35
+   cirugia ora.       0.98
+   ginecologia.        0.8
+   neurocirugia       0.98
+   oftalmologia        0.9
+   otorrinolar.       0.98
+      pediatria       0.98
+     psicologia        0.6
+    psiquiatria        0.9
+       urologia        0.8
+Source: Top doctors 
+Country:  Spain
+Ranking size:  10
+Protected sex: young people
+
+          Query   p = True
+          --------------------
+Median age=  35
+   cirugia ora.        0.3
+   ginecologia.        0.6
+   neurocirugia        0.2
+   oftalmologia        0.3
+   otorrinolar.        0.3
+      pediatria        0.2
+     psicologia        0.7
+    psiquiatria        0.3
+       urologia        0.5
+Source: Top doctors 
+Country:  Spain
+Ranking size:  20
+Protected group: foreigner people
+
+          Query   p = True
+          --------------------
+   cirugia ora.        0.3
+   dermatologia        0.3
+   ginecologia.        0.1
+   neurocirugia        0.1
+   oftalmologia        0.1
+   otorrinolar.        0.1
+      pediatria        0.1
+     psicologia        0.2
+    psiquiatria        0.1
+       urologia        0.1
+Source: Top doctors 
+Country:  Spain
+Ranking size:  20
+Protected group: not foreigner people
+
+          Query   p = True
+          --------------------
+   cirugia ora.        0.8
+   dermatologia        0.9
+   ginecologia.       0.98
+   neurocirugia       0.98
+   oftalmologia       0.98
+   otorrinolar.       0.98
+      pediatria       0.98
+     psicologia        0.9
+    psiquiatria       0.98
+       urologia       0.98

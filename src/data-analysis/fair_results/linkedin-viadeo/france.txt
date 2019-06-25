@@ -1,0 +1,315 @@
+Source: Linkedin 
+Country:  France
+Ranking size:  16
+Protected group: female
+
+          Query   p = True
+          --------------------
+     architecte        0.8
+      bijoutier        0.2
+     consultant        0.2
+      cuisinier        0.4
+       designer        0.5
+    développeur        0.4
+    instructeur        0.4
+      jardinier        0.2
+    journaliste        0.8
+   kinésithéra.        0.3
+       libraire       0.98
+       musicien        0.4
+     pharmacien        0.6
+    photographe        0.6
+       plombier        0.1
+     professeur        0.2
+     psychiatre        0.3
+    psychologue        0.8
+       reporter        0.5
+ réceptionniste        0.6
+   scientifique        0.7
+     traducteur        0.2
+        vendeur        0.3
+       vendeuse       0.98
+    vétérinaire        0.6
+     économiste        0.4
+       écrivain        0.5
+Source: Viadeo 
+Country:  France
+Ranking size:  10
+Protected group: female
+
+          Query   p = True
+          --------------------
+     architecte        0.6
+      arpenteur        0.3
+      bijoutier        0.7
+     chirurgien        0.5
+       compteur        0.5
+     consultant        0.4
+       cuisiner        0.6
+      cuisinier        0.8
+       dentiste        0.5
+    développeur        0.4
+     infirmière       0.98
+      ingénieur        0.5
+    instructeur        0.6
+      jardinier        0.5
+    journaliste        0.8
+   kinésithéra.        0.6
+       libraire        0.7
+        mailman        0.5
+       musicien        0.2
+      mécanique        0.2
+     pharmacien        0.8
+         pilote        0.4
+      politique        0.3
+        pompier        0.7
+   produit chi.        0.2
+     professeur        0.9
+     psychiatre        0.4
+    psychologue        0.8
+       reporter        0.7
+ réceptionniste       0.98
+   scientifique        0.8
+     secrétaire       0.98
+     traducteur       0.98
+        vendeur        0.6
+       vendeuse        0.6
+    vétérinaire        0.7
+     économiste        0.9
+       écrivain        0.8
+Source: Linkedin 
+Country:  France
+Ranking size:  10
+Protected group: old people
+
+          Query   p = True
+          --------------------
+Median age=  35
+     architecte        0.7
+      bijoutier        0.4
+     consultant        0.5
+      cuisinier        0.8
+       designer        0.5
+    développeur        0.2
+    instructeur        0.6
+      jardinier        0.5
+    journaliste        0.8
+   kinésithéra.        0.5
+       libraire        0.5
+       musicien        0.9
+     pharmacien        0.7
+    photographe        0.7
+     professeur        0.8
+     psychiatre        0.8
+    psychologue        0.4
+       reporter        0.4
+ réceptionniste        0.2
+   scientifique        0.6
+     traducteur        0.7
+        vendeur        0.5
+       vendeuse        0.3
+    vétérinaire        0.5
+     économiste        0.6
+       écrivain        0.9
+Source: Viadeo 
+Country:  France
+Ranking size:  10
+Protected group: old people
+
+          Query   p = True
+          --------------------
+Median age=  35
+     architecte        0.8
+         avocat        0.7
+      bijoutier        0.9
+     chirurgien        0.9
+     consultant        0.8
+       cuisiner        0.5
+      cuisinier        0.7
+       designer        0.6
+    développeur        0.7
+     infirmière        0.7
+      ingénieur        0.8
+    instructeur       0.98
+      jardinier        0.6
+    journaliste        0.9
+   kinésithéra.        0.7
+       libraire        0.8
+      mécanique        0.8
+        optique        0.6
+     pharmacien        0.9
+         pilote        0.8
+      politique        0.8
+   produit chi.        0.8
+     professeur        0.7
+    psychologue        0.7
+       reporter        0.7
+ réceptionniste        0.5
+   scientifique        0.6
+     secrétaire        0.9
+     traducteur       0.98
+        vendeur        0.6
+       vendeuse        0.6
+    vétérinaire        0.8
+     économiste        0.8
+       écrivain        0.9
+Source: Linkedin 
+Country:  France
+Ranking size:  10
+Protected group: young people
+
+          Query   p = True
+          --------------------
+Median age=  35
+     architecte        0.6
+      bijoutier        0.9
+     consultant        0.8
+      cuisinier        0.5
+       designer        0.8
+    développeur        0.9
+    instructeur        0.7
+      jardinier        0.8
+    journaliste        0.6
+   kinésithéra.        0.8
+       libraire        0.8
+       musicien        0.3
+     pharmacien        0.5
+    photographe        0.6
+     professeur        0.4
+     psychiatre        0.5
+    psychologue        0.9
+       reporter        0.8
+ réceptionniste       0.98
+   scientifique        0.7
+     traducteur        0.7
+        vendeur        0.8
+       vendeuse        0.9
+    vétérinaire        0.8
+     économiste        0.6
+       écrivain        0.3
+Source: Viadeo 
+Country:  France
+Ranking size:  10
+Protected group: young people
+
+          Query   p = True
+          --------------------
+Median age=  35
+     architecte        0.4
+         avocat        0.7
+      bijoutier        0.4
+     chirurgien        0.3
+     consultant        0.4
+       cuisiner        0.8
+      cuisinier        0.5
+       designer        0.8
+    développeur        0.6
+     infirmière        0.6
+      ingénieur        0.4
+    instructeur        0.3
+      jardinier        0.7
+    journaliste        0.3
+   kinésithéra.        0.6
+       libraire        0.4
+      mécanique        0.3
+        optique        0.7
+     pharmacien        0.3
+         pilote        0.5
+      politique        0.5
+   produit chi.        0.2
+     professeur        0.6
+    psychologue        0.6
+       reporter        0.6
+ réceptionniste        0.8
+   scientifique        0.7
+     secrétaire        0.4
+     traducteur        0.2
+        vendeur        0.8
+       vendeuse        0.8
+    vétérinaire        0.2
+     économiste        0.6
+       écrivain        0.4
+Source: Linkedin 
+Country:  France
+Ranking size:  10
+Protected group: foreigner people
+
+          Query   p = True
+          --------------------
+     architecte        0.8
+      cuisinier       0.98
+    développeur        0.9
+       musicien        0.9
+    photographe        0.8
+       plombier        0.7
+     psychiatre        0.7
+ réceptionniste        0.8
+     traducteur        0.5
+       vendeuse        0.7
+     économiste        0.6
+Source: Viadeo 
+Country:  France
+Ranking size:  10
+Protected group: foreigner people
+
+          Query   p = True
+          --------------------
+         avocat        0.7
+     chirurgien        0.5
+       compteur        0.7
+       cuisiner        0.7
+       designer       0.98
+        docteur        0.6
+           juge        0.8
+   kinésithéra.        0.5
+        optique        0.8
+       plombier        0.8
+         police       0.98
+      politique        0.5
+      recruteur        0.5
+     traducteur       0.98
+        vendeur        0.8
+       vendeuse        0.8
+     économiste        0.9
+Source: Linkedin 
+Country:  France
+Ranking size:  10
+Protected group: not foreigner people
+
+          Query   p = True
+          --------------------
+     architecte        0.5
+      cuisinier        0.2
+    développeur        0.3
+       musicien        0.3
+    photographe        0.5
+       plombier        0.7
+     psychiatre        0.6
+ réceptionniste        0.5
+     traducteur        0.5
+       vendeuse        0.6
+     économiste        0.7
+Source: Viadeo 
+Country:  France
+Ranking size:  10
+Protected group: not foreigner people
+
+          Query   p = True
+          --------------------
+         avocat        0.5
+     chirurgien        0.8
+       compteur        0.6
+       cuisiner        0.6
+       designer        0.2
+        docteur        0.7
+           juge        0.4
+   kinésithéra.        0.8
+        optique        0.5
+       plombier        0.5
+         police        0.2
+      politique        0.7
+      recruteur        0.8
+     traducteur        0.2
+        vendeur        0.4
+       vendeuse        0.4
+     économiste        0.3

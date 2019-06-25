@@ -1,0 +1,6 @@
+selenium==3.141.0
+requests==2.19.1
+requestium==0.1.9
+nameparser==0.5.7
+gender==0.0.12
+elasticsearch==6.3.1

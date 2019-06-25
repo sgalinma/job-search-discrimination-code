@@ -1,0 +1,111 @@
+{
+  "template_medical_specialists": {
+    "order": 0,
+    "index_patterns": [
+      "medical_specialists_profiles"
+    ],
+    "settings": {
+      "index": {
+        "number_of_shards": "1"
+      }
+    },
+    "mappings": {
+      "doc": {
+        "_source": {
+          "enabled": true
+        },
+        "properties": {
+          "ingest_time": {
+            "type": "date"
+          },
+          "source": {
+            "type": "keyword"
+          },
+          "ranking": {
+            "type": "integer"
+          },
+          "speciality": {
+            "type": "keyword"
+          },
+          "country": {
+            "type": "keyword"
+          },
+          "has_photo": {
+            "type": "boolean"
+          },
+          "was_awarded": {
+            "type": "boolean"
+          },
+          "experience": {
+            "type": "nested",
+            "properties": {
+              "name": {
+                "type": "keyword"
+              },
+              "year_init": {
+                "type": "integer"
+              },
+              "year_end": {
+                "type": "integer"
+              }
+            }
+          },
+          "experience_years": {
+            "type": "integer"
+          },
+          "experience_level": {
+            "type": "keyword"
+          },
+          "ethnicity": {
+            "type": "keyword"
+          },
+          "is_foreigner": {
+            "type": "boolean"
+          },
+          "education": {
+            "type": "nested",
+            "properties": {
+              "name": {
+                "type": "keyword"
+              },
+              "year_init": {
+                "type": "integer"
+              },
+              "year_end": {
+                "type": "integer"
+              }
+            }
+          },
+          "num_stars": {
+            "type": "integer"
+          },
+          "num_reviews": {
+            "type": "integer"
+          },
+          "registration_number": {
+            "type": "keyword"
+          },
+          "languages": {
+            "type": "keyword"
+          },
+          "age": {
+            "type": "integer"
+          },
+          "name": {
+            "type": "keyword"
+          },
+          "surnames": {
+            "type": "text"
+          },
+          "gender": {
+            "type": "keyword"
+          },
+          "url": {
+            "type": "keyword"
+          }
+        }
+      }
+    },
+    "aliases": {}
+  }
+}

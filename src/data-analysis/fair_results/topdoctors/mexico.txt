@@ -1,0 +1,85 @@
+Source: Top doctors 
+Country:  Mexico
+Ranking size:  20
+Protected sex: female
+
+          Query   p = True
+          --------------------
+   cirugia ora.        0.3
+   dermatologia        0.8
+   ginecologia.        0.4
+   neurocirugia        0.1
+   oftalmologia        0.7
+   otorrinolar.        0.7
+      pediatria        0.5
+     psicologia        0.8
+    psiquiatria        0.4
+       urologia        0.1
+Source: Top doctors 
+Country:  Mexico
+Ranking size:  11
+Protected sex: old people
+
+          Query   p = True
+          --------------------
+Median age=  35
+   dermatologia        0.7
+   ginecologia.        0.4
+   neurocirugia        0.6
+   oftalmologia        0.8
+   otorrinolar.        0.5
+      pediatria        0.6
+     psicologia        0.6
+    psiquiatria        0.3
+       urologia        0.5
+Source: Top doctors 
+Country:  Mexico
+Ranking size:  11
+Protected sex: young people
+
+          Query   p = True
+          --------------------
+Median age=  35
+   dermatologia        0.6
+   ginecologia.        0.8
+   neurocirugia        0.6
+   oftalmologia        0.3
+   otorrinolar.        0.8
+      pediatria        0.6
+     psicologia        0.7
+    psiquiatria        0.9
+       urologia        0.8
+Source: Top doctors 
+Country:  Mexico
+Ranking size:  20
+Protected group: foreigner people
+
+          Query   p = True
+          --------------------
+   cirugia ora.        0.2
+   dermatologia        0.2
+   ginecologia.        0.1
+   neurocirugia        0.1
+   oftalmologia        0.2
+   otorrinolar.        0.1
+      pediatria        0.1
+     psicologia        0.3
+    psiquiatria        0.1
+       urologia        0.1
+Source: Top doctors 
+Country:  Mexico
+Ranking size:  20
+Protected group: not foreigner people
+
+          Query   p = True
+          --------------------
+   cirugia ora.        0.9
+   dermatologia        0.9
+   ginecologia.        0.9
+   neurocirugia       0.98
+   oftalmologia        0.9
+   otorrinolar.        0.9
+      pediatria       0.98
+     psicologia        0.9
+    psiquiatria       0.98
+       urologia       0.98

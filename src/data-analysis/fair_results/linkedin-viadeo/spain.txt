@@ -1,0 +1,245 @@
+Source: Linkedin 
+Country:  Spain
+Ranking size:  16
+Protected group: female
+
+          Query   p = True
+          --------------------
+        cartero        0.3
+     científico        0.1
+       cirujano        0.4
+       cocinero        0.1
+      consultor        0.5
+       contable        0.4
+       dentista        0.9
+  desarrollador        0.1
+      diseñador        0.2
+         doctor        0.5
+     economista        0.3
+      enfermera       0.98
+       escritor        0.2
+ fisioterapeuta        0.3
+      fontanero        0.1
+      fotógrafo        0.3
+      jardinero        0.1
+           juez        0.5
+        librero        0.2
+       mecánico        0.2
+         médico        0.6
+         músico        0.3
+     periodista        0.9
+         piloto        0.3
+        policía        0.4
+       profesor        0.1
+        químico        0.3
+      reportero        0.2
+      topógrafo        0.3
+    veterinario        0.2
+         óptico        0.6
+Source: Viadeo 
+Country:  Spain
+Ranking size:  11
+Protected group: female
+
+          Query   p = True
+          --------------------
+     arquitecto        0.3
+   asistente d.        0.6
+        bombero        0.2
+        cartero        0.2
+     científico        0.3
+       cirujano        0.7
+        cocinar        0.8
+       cocinero        0.5
+       contable        0.4
+       dentista        0.5
+  desarrollador        0.3
+      diseñador        0.4
+         doctor        0.4
+     economista        0.6
+      enfermera       0.98
+       escritor        0.2
+   farmacéutico        0.2
+ fisioterapeuta        0.7
+      fontanero        0.2
+      fotógrafo        0.4
+      ingeniero        0.2
+     instructor        0.6
+      jardinero        0.2
+         joyero        0.3
+           juez        0.5
+        librero        0.2
+       mecánico        0.2
+         médico        0.5
+         músico        0.4
+      peluquero        0.2
+     periodista        0.7
+         piloto        0.4
+        policía        0.3
+       político        0.5
+       profesor        0.3
+      psicólogo        0.2
+     psiquiatra        0.2
+        químico        0.4
+  recepcionista        0.9
+      reportero        0.4
+     secretario        0.9
+      topógrafo        0.2
+      traductor        0.5
+       vendedor        0.2
+    veterinario        0.3
+         óptico        0.5
+Source: Linkedin 
+Country:  Spain
+Ranking size:  10
+Protected group: old people
+
+          Query   p = True
+          --------------------
+Median age=  35
+        cartero        0.9
+     científico        0.4
+       cirujano        0.7
+       cocinero        0.6
+      consultor        0.6
+       contable        0.7
+       dentista        0.3
+  desarrollador        0.5
+      diseñador        0.5
+         doctor        0.8
+     economista        0.8
+      enfermera        0.4
+       escritor        0.7
+ fisioterapeuta        0.4
+      fontanero        0.8
+      fotógrafo        0.7
+      jardinero        0.9
+           juez        0.8
+        librero        0.6
+       mecánico        0.4
+         médico        0.6
+         músico        0.3
+     periodista        0.4
+         piloto        0.7
+        policía        0.4
+       profesor        0.6
+        químico        0.6
+      reportero        0.7
+      topógrafo        0.3
+    veterinario        0.6
+         óptico        0.6
+Source: Viadeo 
+Country:  Spain
+Ranking size:  10
+Protected group: old people
+
+          Query   p = True
+          --------------------
+Median age=  35
+     arquitecto        0.7
+   asistente d.        0.8
+       cocinero        0.4
+      diseñador        0.9
+     economista        0.9
+      ingeniero        0.9
+     periodista        0.9
+       profesor       0.98
+      psicólogo        0.9
+  recepcionista        0.8
+     secretario        0.9
+      traductor        0.8
+Source: Linkedin 
+Country:  Spain
+Ranking size:  10
+Protected group: young people
+
+          Query   p = True
+          --------------------
+Median age=  35
+        cartero        0.4
+     científico        0.9
+       cirujano        0.6
+       cocinero        0.7
+      consultor        0.8
+       contable        0.5
+       dentista        0.8
+  desarrollador        0.8
+      diseñador        0.8
+         doctor        0.4
+     economista        0.4
+      enfermera        0.7
+       escritor        0.5
+ fisioterapeuta        0.9
+      fontanero        0.4
+      fotógrafo        0.7
+      jardinero        0.3
+           juez        0.3
+        librero        0.8
+       mecánico        0.9
+         médico        0.8
+         músico        0.8
+     periodista        0.8
+         piloto        0.6
+        policía        0.7
+       profesor        0.7
+        químico        0.7
+      reportero        0.6
+      topógrafo        0.9
+    veterinario        0.7
+         óptico        0.7
+Source: Viadeo 
+Country:  Spain
+Ranking size:  10
+Protected group: young people
+
+          Query   p = True
+          --------------------
+Median age=  35
+     arquitecto        0.5
+   asistente d.        0.6
+       cocinero        0.8
+      diseñador        0.3
+     economista        0.4
+      ingeniero        0.4
+     periodista        0.4
+       profesor        0.2
+      psicólogo        0.4
+  recepcionista        0.4
+     secretario        0.3
+      traductor        0.5
+Source: Linkedin 
+Country:  Spain
+Ranking size:  11
+Protected group: foreigner people
+
+          Query   p = True
+          --------------------
+         doctor        0.9
+Source: Viadeo 
+Country:  Spain
+Ranking size:  11
+Protected group: foreigner people
+
+          Query   p = True
+          --------------------
+        cartero        0.7
+         doctor        0.8
+      fotógrafo        0.5
+Source: Linkedin 
+Country:  Spain
+Ranking size:  11
+Protected group: not foreigner people
+
+          Query   p = True
+          --------------------
+         doctor        0.4
+Source: Viadeo 
+Country:  Spain
+Ranking size:  11
+Protected group: not foreigner people
+
+          Query   p = True
+          --------------------
+        cartero        0.4
+         doctor        0.6
+      fotógrafo        0.8

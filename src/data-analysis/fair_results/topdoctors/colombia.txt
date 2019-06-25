@@ -1,0 +1,51 @@
+Source: Top doctors 
+Country:  Colombia
+Ranking size:  20
+Protected sex: female
+
+          Query   p = True
+          --------------------
+   cirugia ora.        0.3
+   dermatologia        0.9
+   ginecologia.        0.4
+   neurocirugia        0.1
+   oftalmologia        0.5
+   otorrinolar.        0.4
+      pediatria        0.6
+     psicologia        0.8
+    psiquiatria        0.6
+       urologia        0.1
+Source: Top doctors 
+Country:  Colombia
+Ranking size:  20
+Protected group: foreigner people
+
+          Query   p = True
+          --------------------
+   cirugia ora.        0.1
+   dermatologia        0.1
+   ginecologia.        0.1
+   neurocirugia        0.1
+   oftalmologia        0.1
+   otorrinolar.        0.1
+      pediatria        0.1
+     psicologia        0.3
+    psiquiatria        0.1
+       urologia        0.1
+Source: Top doctors 
+Country:  Colombia
+Ranking size:  20
+Protected group: not foreigner people
+
+          Query   p = True
+          --------------------
+   cirugia ora.       0.98
+   dermatologia       0.98
+   ginecologia.       0.98
+   neurocirugia       0.98
+   oftalmologia       0.98
+   otorrinolar.       0.98
+      pediatria       0.98
+     psicologia        0.9
+    psiquiatria       0.98
+       urologia       0.98
